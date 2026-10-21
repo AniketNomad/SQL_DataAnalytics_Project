@@ -15,7 +15,6 @@ GROUP BY
 )
 
 SELECT
-sd.skill_id,
 sd.skills,
 ts.No_of_jobs
 
