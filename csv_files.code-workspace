@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../csv_files"
+		},
+		{
+			"path": "../sql_load"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"ssh": "Disabled",
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_courses",
+				"database": "sql_courses",
+				"username": "postgres"
+			}
+		]
+	}
+}
